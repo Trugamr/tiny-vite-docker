@@ -1,5 +1,5 @@
 ### Tiny Vite Docker Image
-Using [redbean](https://redbean.dev/) binary and [scratch](https://hub.docker.com/_/scratch) docker image to create tiny dokcer image that serves static files.
+Using [redbean](https://redbean.dev/) binary and [scratch](https://hub.docker.com/_/scratch) docker image to create tiny docker image that serves static files.
 
 ### These were the final results
 React app final built size was **147.5kB**
